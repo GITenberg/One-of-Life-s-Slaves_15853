@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5095
     wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
 description: 'Translation of: Livsslaven'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15853#One-of-Life-s-Slaves
 gutenberg_issued: '2005-05-18'
 gutenberg_type: Text
 identifiers:
